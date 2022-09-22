@@ -6,7 +6,7 @@ name: Build and deploy Node.js app to Azure Web App - soebookapi1
 on:
   push:
     branches:
-      - qa
+      - 1-issue
   workflow_dispatch:
 
 jobs:
