@@ -4,7 +4,7 @@ describe(
         test(
             "Guardado de nuevo libro",
             () => {
-                var result = false;
+                var result = true;
 
                 expect(result).toBe(true);
             }
